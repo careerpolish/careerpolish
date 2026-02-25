@@ -6,7 +6,7 @@
 </p>
 
 <!-- ========================= -->
-<!-- 🌊 WELCOME CAPSULE (DIRECTLY BELOW, TIGHT) -->
+<!-- 🌊 WELCOME CAPSULE (DIRECTLY BELOW BANNER) -->
 <!-- ========================= -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ff9a9e,fad0c4&height=80&section=header&text=Welcome!&fontSize=26&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
@@ -26,15 +26,13 @@
 </p>
 
 <!-- ========================= -->
-<!-- ⌨️ SINGLE TYPING ANIMATION (MULTI-COLOR LOOK) -->
+<!-- ⌨️ SINGLE ANIMATED TYPING -->
 <!-- ========================= -->
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&center=true&vCenter=true&width=900&color=00EAFF&lines=AI+%26+Automation+Enthusiast;Python+Developer;Workflow+Engineer;Building+Smart+Automation"/>
   </a>
 </p>
-
----
 
 ## ⚡ About Me  
 <p>
@@ -113,13 +111,11 @@ I focus on:
 
 </p>
 
----
-
 <!-- ========================= -->
-<!-- 🐍 COLORFUL SNAKE (ABOVE STATS) -->
+<!-- 🌈 COLORFUL LOADER (ABOVE STATS) -->
 <!-- ========================= -->
 <p align="center">
-  <img src="https://github.com/WhyShailesh/WhyShailesh/blob/output/github-contribution-grid-snake.svg"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="120"/>
 </p>
 
 ## 📊 GitHub Analytics  
