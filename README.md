@@ -1,13 +1,24 @@
+<!-- ========================= -->
+<!-- 🖼️ BANNER -->
+<!-- ========================= -->
 <p align="center">
   <img src="https://github.com/WhyShailesh/WhyShailesh/blob/main/Shailesh%20Yadav%20(1).png" alt="Banner"/>
 </p>
 
+<!-- ========================= -->
+<!-- 🌊 WELCOME CAPSULE -->
+<!-- ========================= -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ff9a9e,fad0c4&height=80&section=header&text=Welcome!&fontSize=26&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 </p>
 
+<!-- 🌌 SPACE BACKGROUND -->
+<img src="https://i.imgur.com/9yG6GkQ.gif" width="100%"/>
 
-<p align="center" style="font-size:150px; font-weight:700; margin:8px 0;">
+<!-- ========================= -->
+<!-- 👋 INTRO -->
+<!-- ========================= -->
+<p align="center" style="font-size:100px; font-weight:700; margin:8px 0;">
   <span style="white-space:nowrap;">
     👋 Hi, I'm <span style="color:#00eaff;">Shailesh</span>&nbsp;&nbsp;
     <a href="https://shailesh.space" target="_blank" rel="noopener"
@@ -26,6 +37,9 @@
   </a>
 </p>
 
+<!-- 🌌 SPACE BACKGROUND -->
+<img src="https://i.imgur.com/9yG6GkQ.gif" width="100%"/>
+
 ## ⚡ About Me  
 <p>
 I’m passionate about <span style="color:#00eaff;">Artificial Intelligence</span>,  
@@ -35,15 +49,12 @@ My journey includes working with tools like <span style="color:#00ff99;">n8n</sp
 <span style="color:#00eaff;">Python</span>.
 </p>
 
-<p>
-I focus on:
 <ul>
   <li>⚙️ Writing clean, efficient, production-ready code</li>
   <li>🤖 Building smart automation systems</li>
   <li>🧠 Experimenting with AI/ML models</li>
   <li>🔧 Creating tools that simplify tasks and save time</li>
 </ul>
-</p>
 
 ## 🌐 Connect with Me  
 <p align="left">
@@ -93,26 +104,24 @@ I focus on:
 ![Firebase](https://img.shields.io/badge/Firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
 
-### **Tools**
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/Github-%23121011.svg?style=flat&logo=github&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white)
-![Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
-
 </p>
 
-📊 GitHub Analytics  
+## 📊 GitHub Analytics  
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 </p>
+
 <p align="center">
   
-![](https://github-readme-stats.vercel.app/api?username=WhyShailesh&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br><br/> 
+![](https://github-readme-stats.vercel.app/api?username=WhyShailesh&theme=neon&hide_border=false)<br><br/> 
 ![](https://nirzak-streak-stats.vercel.app/?user=WhyShailesh&theme=neon&hide_border=false)<br><br/> 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=WhyShailesh&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=WhyShailesh&theme=neon&layout=compact) 
 [![](https://visitcount.itsvg.in/api?id=WhyShailesh&icon=0&color=0)](https://visitcount.itsvg.in)
+
 </p>
+
+<!-- 🌌 SPACE BACKGROUND -->
+<img src="https://i.imgur.com/9yG6GkQ.gif" width="100%"/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00eaff,100:7f00ff&height=120&section=footer"/>
