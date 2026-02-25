@@ -1,28 +1,37 @@
-
+<!-- ========================= -->
+<!-- 🖼️ STATIC BANNER -->
+<!-- ========================= -->
 <p align="center">
   <img src="https://github.com/WhyShailesh/WhyShailesh/blob/main/Shailesh%20Yadav%20(1).png" alt="Banner"/>
 </p>
-
 <p align="center">
-  <img src="https://camo.githubusercontent.com/98fb9d70e027c7881e9f826b4e3340f5dbcb8df37f56744ec1e89a75f53562b8/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e7426637573746f6d436f6c6f724c6973743d6666396139652c666164306334266865696768743d3130302673656374696f6e3d68656164657226746578743d57656c636f6d652126666f6e7453697a653d333026666f6e74436f6c6f723d66666666666626616e696d6174696f6e3d66616465496e26666f6e74416c69676e593d3430"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ff9a9e,fad0c4&height=80&section=header&text=Welcome!&fontSize=26&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 </p>
 
-<p align="center" style="font-size:100px; font-weight:700; margin:8px 0;">
+<!-- ========================= -->
+<!-- 👋 INTRO (TIGHT SPACING) -->
+<!-- ========================= -->
+<p align="center" style="font-size:100px; font-weight:700; margin:6px 0;">
   <span style="white-space:nowrap;">
     👋 Hi, I'm <span style="color:#00eaff;">Shailesh</span>&nbsp;&nbsp;
     <a href="https://shailesh.space" target="_blank" rel="noopener"
-       style="color:#00eaff; text-decoration:none; font-size:90px; font-weight:700;">
+       style="color:#00eaff; text-decoration:none; font-size:75px; font-weight:700;">
       Portfolio &#8599;
     </a>
   </span>
 </p>
 
 <!-- ========================= -->
-<!-- ⌨️ TYPING ANIMATION -->
+<!-- ⌨️ ANIMATED TYPING (MULTI-COLOR / NEON LOOK) -->
 <!-- ========================= -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=900&color=00EAFF&center=true&vCenter=true&width=900&lines=AI+%26+Automation+Engineer;Python+Developer+%7C+Workflow+Engineer;Building+Smart+and+Scalable+Systems;Turning+Ideas+Into+Automation"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=900&center=true&vCenter=true&width=900&lines=%F0%9F%A4%96+AI+%26+Automation+Engineer;Python+Developer+%7C+Workflow+Engineer;Building+Smart+Systems;Turning+Ideas+Into+Automation&color=00EAFF"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1200&center=true&vCenter=true&width=900&lines=Neon+Thinking+%E2%9A%A1;Clean+Code+%F0%9F%94%A7;Scalable+Automation+%F0%9F%9A%80&color=FF6B6B"/>
   </a>
 </p>
 
@@ -93,6 +102,13 @@ I’m passionate about <b style="color:#00eaff;">Artificial Intelligence</b>,
 <img src="https://user-images.githubusercontent.com/74038190/212284094-6c93e61b-1bb0-4b7b-9b43-92e7a5f7e88e.gif" width="100%">
 
 <!-- ========================= -->
+<!-- 🐍 COLORFUL SNAKE LOADER (ABOVE STATS) -->
+<!-- ========================= -->
+<p align="center">
+  <img src="https://github.com/WhyShailesh/WhyShailesh/blob/output/github-contribution-grid-snake.svg"/>
+</p>
+
+<!-- ========================= -->
 <!-- 📊 GITHUB ANALYTICS -->
 <!-- ========================= -->
 <h2 align="center">📊 GitHub Analytics</h2>
@@ -104,13 +120,6 @@ I’m passionate about <b style="color:#00eaff;">Artificial Intelligence</b>,
 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=WhyShailesh&theme=neon&hide_border=true"/>
-</p>
-
-<!-- ========================= -->
-<!-- 🐍 CONTRIBUTION SNAKE -->
-<!-- ========================= -->
-<p align="center">
-  <img src="https://github.com/WhyShailesh/WhyShailesh/blob/output/github-contribution-grid-snake.svg" width="100%"/>
 </p>
 
 <!-- ========================= -->
