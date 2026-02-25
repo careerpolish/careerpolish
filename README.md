@@ -12,8 +12,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ff9a9e,fad0c4&height=80&section=header&text=Welcome!&fontSize=26&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 </p>
 
-<!-- 🌌 SPACE BACKGROUND -->
-<img src="https://i.imgur.com/9yG6GkQ.gif" width="100%"/>
+<!-- ========================= -->
+<!-- 🌌 BACKGROUND MOTION GIF -->
+<!-- ========================= -->
+<img src="https://media.giphy.com/media/BztG2ZlPnfbqa0dPiD/giphy.gif" width="100%"/>
 
 <!-- ========================= -->
 <!-- 👋 INTRO -->
@@ -36,9 +38,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&center=true&vCenter=true&width=900&color=00EAFF&lines=AI+%26+Automation+Enthusiast;Python+Developer;Workflow+Engineer;Building+Smart+Automation"/>
   </a>
 </p>
-
-<!-- 🌌 SPACE BACKGROUND -->
-<img src="https://i.imgur.com/9yG6GkQ.gif" width="100%"/>
 
 ## ⚡ About Me  
 <p>
@@ -98,14 +97,6 @@ My journey includes working with tools like <span style="color:#00ff99;">n8n</sp
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)
 
-### **Databases & Cloud**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
-
-</p>
-
 ## 📊 GitHub Analytics  
 
 <p align="center">
@@ -121,7 +112,9 @@ My journey includes working with tools like <span style="color:#00ff99;">n8n</sp
 
 </p>
 
-<!-- 🌌 SPACE BACKGROUND -->
-<img src="https://i.imgur.com/9yG6GkQ.gif" width="100%"/>
+<!-- ========================= -->
+<!-- 🌌 SPACE-BACKGROUND (BOTTOM) -->
+<!-- ========================= -->
+<img src="https://media.giphy.com/media/BztG2ZlPnfbqa0dPiD/giphy.gif" width="100%"/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00eaff,100:7f00ff&height=120&section=footer"/>
