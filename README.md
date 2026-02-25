@@ -1,21 +1,13 @@
-<!-- ========================= -->
-<!-- 🖼️ BANNER -->
-<!-- ========================= -->
 <p align="center">
   <img src="https://github.com/WhyShailesh/WhyShailesh/blob/main/Shailesh%20Yadav%20(1).png" alt="Banner"/>
 </p>
 
-<!-- ========================= -->
-<!-- 🌊 WELCOME CAPSULE -->
-<!-- ========================= -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ff9a9e,fad0c4&height=80&section=header&text=Welcome!&fontSize=26&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 </p>
 
-<!-- ========================= -->
-<!-- 👋 INTRO -->
-<!-- ========================= -->
-<p align="center" style="font-size:100px; font-weight:700; margin:8px 0;">
+
+<p align="center" style="font-size:150px; font-weight:700; margin:8px 0;">
   <span style="white-space:nowrap;">
     👋 Hi, I'm <span style="color:#00eaff;">Shailesh</span>&nbsp;&nbsp;
     <a href="https://shailesh.space" target="_blank" rel="noopener"
