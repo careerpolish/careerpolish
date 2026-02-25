@@ -1,10 +1,18 @@
 <!-- ========================= -->
-<!-- 🖼️ STATIC BANNER (UNCHANGED) -->
+<!-- 🖼️ STATIC BANNER -->
 <!-- ========================= -->
 <p align="center">
   <img src="https://github.com/WhyShailesh/WhyShailesh/blob/main/Shailesh%20Yadav%20(1).png" alt="Banner"/>
 </p>
 
+<!-- ========================= -->
+<!-- 🌊 WELCOME CAPSULE (DIRECTLY BELOW BANNER) -->
+<!-- ========================= -->
+<img width="100%" src="https://camo.githubusercontent.com/98fb9d70e027c7881e9f826b4e3340f5dbcb8df37f56744ec1e89a75f53562b8/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e7426637573746f6d436f6c6f724c6973743d6666396139652c666164306334266865696768743d3130302673656374696f6e3d68656164657226746578743d57656c636f6d652126666f6e7453697a653d333026666f6e74436f6c6f723d66666666666626616e696d6174696f6e3d66616465496e26666f6e74416c69676e593d3430" />
+
+<!-- ========================= -->
+<!-- 👋 INTRO -->
+<!-- ========================= -->
 <p align="center" style="font-size:100px; font-weight:700; margin:18px 0;">
   <span style="white-space:nowrap;">
     👋 Hi, I'm <span style="color:#00eaff;">Shailesh</span>&nbsp;&nbsp;
@@ -16,7 +24,7 @@
 </p>
 
 <!-- ========================= -->
-<!-- ⌨️ TYPING ANIMATION (PRIMARY ANIMATION) -->
+<!-- ⌨️ TYPING ANIMATION -->
 <!-- ========================= -->
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -25,12 +33,7 @@
 </p>
 
 <!-- ========================= -->
-<!-- 🌊 WELCOME CAPSULE (MOVED BELOW TYPING) -->
-<!-- ========================= -->
-<img width="100%" src="https://camo.githubusercontent.com/98fb9d70e027c7881e9f826b4e3340f5dbcb8df37f56744ec1e89a75f53562b8/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e7426637573746f6d436f6c6f724c6973743d6666396139652c666164306334266865696768743d3130302673656374696f6e3d68656164657226746578743d57656c636f6d652126666f6e7453697a653d333026666f6e74436f6c6f723d66666666666626616e696d6174696f6e3d66616465496e26666f6e74416c69676e593d3430" />
-
-<!-- ========================= -->
-<!-- ✨ ANIMATED DIVIDER -->
+<!-- ✨ DIVIDER -->
 <!-- ========================= -->
 <img src="https://user-images.githubusercontent.com/74038190/212284094-6c93e61b-1bb0-4b7b-9b43-92e7a5f7e88e.gif" width="100%">
 
@@ -117,6 +120,6 @@ I’m passionate about <b style="color:#00eaff;">Artificial Intelligence</b>,
 </p>
 
 <!-- ========================= -->
-<!-- 🌊 END CAPSULE (SUITABLE FOOTER) -->
+<!-- 🌊 FOOTER CAPSULE -->
 <!-- ========================= -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00eaff,100:7f00ff&height=120&section=footer"/>
