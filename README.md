@@ -111,22 +111,14 @@ I focus on:
 
 </p>
 
-## 📊 GitHub Analytics  
-
-<!-- 🌈 SNAKE LOADER (DIRECTLY UNDER HEADING) -->
+ 📊 GitHub Analytics  
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=WhyShailesh&theme=neon&hide_border=false"/>
-  <br><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=WhyShailesh&theme=neon&hide_border=false"/>
-  <br><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhyShailesh&theme=neon&layout=compact"/>
 </p>
 
-<!-- ========================= -->
-<!-- 🌊 FOOTER CAPSULE -->
-<!-- ========================= -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00eaff,100:7f00ff&height=120&section=footer"/>
