@@ -117,8 +117,11 @@ I focus on:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WhyShailesh&theme=neon&hide_border=false"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhyShailesh&theme=neon&layout=compact"/>
+
+![](https://github-readme-stats.vercel.app/api?username=WhyShailesh&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br><br/> 
+![](https://nirzak-streak-stats.vercel.app/?user=WhyShailesh&theme=neon&hide_border=false)<br><br/> 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=WhyShailesh&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
+[![](https://visitcount.itsvg.in/api?id=WhyShailesh&icon=0&color=0)](https://visitcount.itsvg.in)
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00eaff,100:7f00ff&height=120&section=footer"/>
