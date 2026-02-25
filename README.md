@@ -54,19 +54,24 @@ I focus on:
 </p>
 
 ## 🌐 Connect with Me  
-<p align="left" style="text-decoration:none;">
+<p align="left">
+
   <a href="https://linkedin.com/in/whyshailesh">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/>
   </a>&#8203;&#8203;&#8203;
+
   <a href="https://x.com/WhyShailesh">
     <img src="https://img.shields.io/badge/X-000000.svg?style=flat&logo=x&logoColor=white"/>
   </a>&#8203;&#8203;&#8203;
+
   <a href="mailto:Ys06022000@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836.svg?style=flat&logo=gmail&logoColor=white"/>
   </a>&#8203;&#8203;&#8203;
+
   <a href="https://shailesh.space">
    <img src="https://img.shields.io/badge/Portfolio-007b8f.svg?style=flat&logo=cloudflare&logoColor=white"/>
   </a>
+
 </p>
 
 ## 🛠️ Tech Stack  
@@ -107,19 +112,18 @@ I focus on:
 </p>
 
 ## 📊 GitHub Analytics  
+
+<!-- 🌈 SNAKE LOADER (DIRECTLY UNDER HEADING) -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+</p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=WhyShailesh&theme=neon&hide_border=false"/>
   <br><br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=WhyShailesh&theme=neon&hide_border=false"/>
   <br><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhyShailesh&theme=neon&layout=compact"/>
-</p>
-
-<!-- ========================= -->
-<!-- 🌈 FULL-WIDTH SNAKE LOADER (REPLACEMENT) -->
-<!-- ========================= -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 </p>
 
 <!-- ========================= -->
