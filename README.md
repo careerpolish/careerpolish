@@ -1,9 +1,4 @@
 <!-- ========================= -->
-<!-- 🌊 WELCOME ANIMATED HEADER -->
-<!-- ========================= -->
-<img width="100%" src="https://camo.githubusercontent.com/98fb9d70e027c7881e9f826b4e3340f5dbcb8df37f56744ec1e89a75f53562b8/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e7426637573746f6d436f6c6f724c6973743d6666396139652c666164306334266865696768743d3130302673656374696f6e3d68656164657226746578743d57656c636f6d652126666f6e7453697a653d333026666f6e74436f6c6f723d66666666666626616e696d6174696f6e3d66616465496e26666f6e74416c69676e593d3430" />
-
-<!-- ========================= -->
 <!-- 🖼️ STATIC BANNER (UNCHANGED) -->
 <!-- ========================= -->
 <p align="center">
@@ -21,13 +16,18 @@
 </p>
 
 <!-- ========================= -->
-<!-- ⌨️ TYPING ANIMATION (NEW COLOR & EFFECT) -->
+<!-- ⌨️ TYPING ANIMATION (PRIMARY ANIMATION) -->
 <!-- ========================= -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=900&color=FF6B6B&center=true&vCenter=true&width=900&lines=AI+%26+Automation+Engineer;Python+%7C+Workflows+%7C+Systems;Building+Smart+and+Scalable+Solutions;Turning+Ideas+Into+Automation" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=900&color=00EAFF&center=true&vCenter=true&width=900&lines=AI+%26+Automation+Engineer;Python+Developer+%7C+Workflow+Engineer;Building+Smart+and+Scalable+Systems;Turning+Ideas+Into+Automation" />
   </a>
 </p>
+
+<!-- ========================= -->
+<!-- 🌊 WELCOME CAPSULE (MOVED BELOW TYPING) -->
+<!-- ========================= -->
+<img width="100%" src="https://camo.githubusercontent.com/98fb9d70e027c7881e9f826b4e3340f5dbcb8df37f56744ec1e89a75f53562b8/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e7426637573746f6d436f6c6f724c6973743d6666396139652c666164306334266865696768743d3130302673656374696f6e3d68656164657226746578743d57656c636f6d652126666f6e7453697a653d333026666f6e74436f6c6f723d66666666666626616e696d6174696f6e3d66616465496e26666f6e74416c69676e593d3430" />
 
 <!-- ========================= -->
 <!-- ✨ ANIMATED DIVIDER -->
@@ -57,7 +57,7 @@ I’m passionate about <b style="color:#00eaff;">Artificial Intelligence</b>,
 <img src="https://user-images.githubusercontent.com/74038190/212284094-6c93e61b-1bb0-4b7b-9b43-92e7a5f7e88e.gif" width="100%">
 
 <!-- ========================= -->
-<!-- 🌐 CONNECT WITH ME -->
+<!-- 🌐 CONNECT -->
 <!-- ========================= -->
 <h2 align="center">🌐 Connect With Me</h2>
 
@@ -82,7 +82,7 @@ I’m passionate about <b style="color:#00eaff;">Artificial Intelligence</b>,
 <img src="https://user-images.githubusercontent.com/74038190/212284094-6c93e61b-1bb0-4b7b-9b43-92e7a5f7e88e.gif" width="100%">
 
 <!-- ========================= -->
-<!-- 🛠️ TECH STACK (CLEAN & MODERN) -->
+<!-- 🛠️ TECH STACK -->
 <!-- ========================= -->
 <h2 align="center">🛠️ Tech Stack</h2>
 
@@ -117,6 +117,6 @@ I’m passionate about <b style="color:#00eaff;">Artificial Intelligence</b>,
 </p>
 
 <!-- ========================= -->
-<!-- 🌊 FOOTER -->
+<!-- 🌊 END CAPSULE (SUITABLE FOOTER) -->
 <!-- ========================= -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9a9e,100:fad0c4&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00eaff,100:7f00ff&height=120&section=footer"/>
