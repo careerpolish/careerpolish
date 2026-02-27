@@ -22,8 +22,9 @@
   </a>
 </p>
 
-## ⚡ About Me
-<!-- snake loader placed immediately to avoid divider -->
+<!-- ABOUT ME (HTML HEADING – NO DIVIDER LINE) -->
+<h2>⚡ About Me</h2>
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 </p>
@@ -43,7 +44,7 @@ My journey includes working with tools like <span style="color:#00ff99;">n8n</sp
   <li>🔧 Creating tools that simplify tasks and save time</li>
 </ul>
 
-## 🌐 Connect with Me  
+<h2>🌐 Connect with Me</h2>
 
 <p align="left">
   <a href="https://linkedin.com/in/whyshailesh">
@@ -63,14 +64,14 @@ My journey includes working with tools like <span style="color:#00ff99;">n8n</sp
   </a>
 </p>
 
-## 🛠️ Tech Stack  
+<h2>🛠️ Tech Stack</h2>
 
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 
-## 📊 GitHub Analytics  
+<h2>📊 GitHub Analytics</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=WhyShailesh&theme=neon&hide_border=false"/>
