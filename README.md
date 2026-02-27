@@ -22,8 +22,8 @@
   </a>
 </p>
 
-## ⚡ About Me  
-
+## ⚡ About Me
+<!-- snake loader placed immediately to avoid divider -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 </p>
@@ -36,27 +36,12 @@ My journey includes working with tools like <span style="color:#00ff99;">n8n</sp
 <span style="color:#00eaff;">Python</span>.
 </p>
 
-<!-- I FOCUS ON SECTION WITH BIG GIF -->
-<p><strong>I focus on:</strong></p>
-
-<table>
-  <tr>
-    <td width="35%" align="center">
-      <img 
-        src="https://camo.githubusercontent.com/74cc0452d5813e00f23a883484072384069a4d9f76c944f1f1046ed7b035b90e/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e676966"
-        width="240"
-      />
-    </td>
-    <td width="65%">
-      <ul>
-        <li>⚙️ Writing clean, efficient, production-ready code</li>
-        <li>🤖 Building smart automation systems</li>
-        <li>🧠 Experimenting with AI/ML models</li>
-        <li>🔧 Creating tools that simplify tasks and save time</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<ul>
+  <li>⚙️ Writing clean, efficient, production-ready code</li>
+  <li>🤖 Building smart automation systems</li>
+  <li>🧠 Experimenting with AI/ML models</li>
+  <li>🔧 Creating tools that simplify tasks and save time</li>
+</ul>
 
 ## 🌐 Connect with Me  
 
@@ -84,14 +69,6 @@ My journey includes working with tools like <span style="color:#00ff99;">n8n</sp
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-
-### Frameworks & Libraries
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat&logo=django&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
 
 ## 📊 GitHub Analytics  
 
@@ -101,10 +78,6 @@ My journey includes working with tools like <span style="color:#00ff99;">n8n</sp
   <img src="https://nirzak-streak-stats.vercel.app/?user=WhyShailesh&theme=neon&hide_border=false"/>
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhyShailesh&theme=neon&layout=compact"/>
-  <br><br>
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=WhyShailesh&icon=0&color=0"/>
-  </a>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00eaff,100:7f00ff&height=120&section=footer"/>
