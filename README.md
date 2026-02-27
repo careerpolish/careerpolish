@@ -9,7 +9,7 @@
 <p align="center" style="font-size:150px; font-weight:700; margin:8px 0;">
   <span style="white-space:nowrap;">
     👋 Hi, I'm <span style="color:#00eaff;">Shailesh</span>&nbsp;&nbsp;
-    <a href="https://shailesh.space" target="_blank" rel="noopener"
+    <a href="https://shailesh.space" target="_blank"
        style="color:#00eaff; text-decoration:none; font-size:75px; font-weight:700;">
       Portfolio &#8599;
     </a>
@@ -17,13 +17,11 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&center=true&vCenter=true&width=900&color=00EAFF&lines=AI+%26+Automation+Enthusiast;Python+Developer;Workflow+Engineer;Building+Smart+Automation"/>
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&center=true&vCenter=true&width=900&color=00EAFF&lines=AI+%26+Automation+Enthusiast;Python+Developer;Workflow+Engineer;Building+Smart+Automation"/>
 </p>
 
-<!-- ABOUT ME (HTML HEADING – NO DIVIDER LINE) -->
-<h2>⚡ About Me</h2>
+<!-- ABOUT ME (NOT A HEADING, SO NO LINE) -->
+<p style="font-size:28px; font-weight:700;">⚡ About Me</p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
@@ -44,41 +42,29 @@ My journey includes working with tools like <span style="color:#00ff99;">n8n</sp
   <li>🔧 Creating tools that simplify tasks and save time</li>
 </ul>
 
-<h2>🌐 Connect with Me</h2>
+<p style="font-size:28px; font-weight:700;">🌐 Connect with Me</p>
 
 <p align="left">
   <a href="https://linkedin.com/in/whyshailesh">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/>
-  </a>&#8203;&#8203;&#8203;
-
+  </a>
   <a href="https://x.com/WhyShailesh">
     <img src="https://img.shields.io/badge/X-000000.svg?style=flat&logo=x&logoColor=white"/>
-  </a>&#8203;&#8203;&#8203;
-
+  </a>
   <a href="mailto:Ys06022000@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836.svg?style=flat&logo=gmail&logoColor=white"/>
-  </a>&#8203;&#8203;&#8203;
-
+  </a>
   <a href="https://shailesh.space">
     <img src="https://img.shields.io/badge/Portfolio-007b8f.svg?style=flat&logo=cloudflare&logoColor=white"/>
   </a>
 </p>
 
-<h2>🛠️ Tech Stack</h2>
-
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-
-<h2>📊 GitHub Analytics</h2>
+<p style="font-size:28px; font-weight:700;">📊 GitHub Analytics</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WhyShailesh&theme=neon&hide_border=false"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=WhyShailesh&theme=neon"/>
   <br><br>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=WhyShailesh&theme=neon&hide_border=false"/>
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhyShailesh&theme=neon&layout=compact"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=WhyShailesh&theme=neon"/>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00eaff,100:7f00ff&height=120&section=footer"/>
