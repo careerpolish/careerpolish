@@ -6,16 +6,17 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ff9a9e,fad0c4&height=80&section=header&text=Welcome!&fontSize=26&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 </p>
 
-<p align="center" style="font-size:150px; font-weight:700; margin:8px 0;">
-  <span style="white-space:nowrap;">
+<p align="center" style="margin:8px 0;">
+  <span style="white-space:nowrap; font-weight:700; font-size:160px;">
     <img 
       src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
       width="26"
       style="vertical-align:middle;"
     />
-    Hi, I'm <span style="color:#00eaff;">Shailesh</span>&nbsp;&nbsp;
+    Hi, I'm <span style="color:#00eaff;">Shailesh</span>
+    &nbsp;&nbsp;
     <a href="https://shailesh.space" target="_blank"
-       style="color:#00eaff; text-decoration:none; font-size:75px; font-weight:700;">
+       style="color:#00eaff; text-decoration:none; font-size:85px; font-weight:700;">
       Portfolio &#8599;
     </a>
   </span>
@@ -25,8 +26,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&center=true&vCenter=true&width=900&color=00EAFF&lines=AI+%26+Automation+Enthusiast;Python+Developer;Workflow+Engineer;Building+Smart+Automation"/>
 </p>
 
-<!-- ABOUT ME (VISIBLY BIGGER, NO LINE) -->
-<p style="font-size:38px; font-weight:800; margin:18px 0 6px 0;">
+<!-- ABOUT ME (BIGGER & BOLDER) -->
+<p style="font-size:44px; font-weight:900; margin:22px 0 8px 0;">
   ⚡ About Me
 </p>
 
@@ -49,7 +50,7 @@ My journey includes working with tools like <span style="color:#00ff99;">n8n</sp
   <li>🔧 Creating tools that simplify tasks and save time</li>
 </ul>
 
-<p style="font-size:32px; font-weight:800; margin-top:30px;">
+<p style="font-size:34px; font-weight:800; margin-top:34px;">
   🌐 Connect with Me
 </p>
 
@@ -57,21 +58,18 @@ My journey includes working with tools like <span style="color:#00ff99;">n8n</sp
   <a href="https://linkedin.com/in/whyshailesh">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/>
   </a>&#8203;&#8203;&#8203;
-
   <a href="https://x.com/WhyShailesh">
     <img src="https://img.shields.io/badge/X-000000.svg?style=flat&logo=x&logoColor=white"/>
   </a>&#8203;&#8203;&#8203;
-
   <a href="mailto:Ys06022000@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836.svg?style=flat&logo=gmail&logoColor=white"/>
   </a>&#8203;&#8203;&#8203;
-
   <a href="https://shailesh.space">
     <img src="https://img.shields.io/badge/Portfolio-007b8f.svg?style=flat&logo=cloudflare&logoColor=white"/>
   </a>
 </p>
 
-<p style="font-size:32px; font-weight:800; margin-top:30px;">
+<p style="font-size:34px; font-weight:800; margin-top:34px;">
   📊 GitHub Analytics
 </p>
 
