@@ -27,7 +27,7 @@
 </p>
 
 <!-- ABOUT ME (BIGGER & BOLDER) -->
-<p style="font-size:44px; font-weight:900; margin:42px 0 15px 0;">
+<p style="font-size:44px; font-weight:900; margin:42px 0 55px 0;">
   ⚡ About Me
 </p>
 
